@@ -1,6 +1,6 @@
 # ACNFUVRF *(Another "Colaboratory Notebook for Ultimate Vocal Remover" Fork)*
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rgm89git/Colaboratory-Notebook-for-Ultimate-Vocal-Remover/blob/main/Vocal%20Remover%205_arch.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rgm89git/acnfuvrf/blob/main/Vocal%20Remover%205_arch.ipynb)
 
 An simple fork of ***"Colaboratory Notebook for Ultimate Vocal Remover"***, by [tsurumeso](http://github.com/tsurumeso/) and [NaJeongMo](http://github.com/NaJeongMo/).
 
